@@ -1,6 +1,6 @@
 # tebak-kata
 
-A simple Python CLI game where players guess an animal name letter by letter (like WORDLE)
+A simple Python game where players guess an animal name letter by letter (like WORDLE)
 
 User diberikan maksimal 10 kesempatan untuk menebak huruf yang benar hingga seluruh kata terbuka.
 
